@@ -1,0 +1,7 @@
+﻿  Car_Class_Compare_cpp.cpp
+c:\users\jmccartney\documents\visual studio 2017\spring semester 2019 projects\car_class_compare_lab_wk_13\car_class_compare_lab_wk_13\car_class_compare_cpp.cpp(163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jmccartney\documents\visual studio 2017\spring semester 2019 projects\car_class_compare_lab_wk_13\car_class_compare_lab_wk_13\car_class_compare_cpp.cpp(169): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jmccartney\documents\visual studio 2017\spring semester 2019 projects\car_class_compare_lab_wk_13\car_class_compare_lab_wk_13\car_class_compare_cpp.cpp(181): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jmccartney\documents\visual studio 2017\spring semester 2019 projects\car_class_compare_lab_wk_13\car_class_compare_lab_wk_13\car_class_compare_cpp.cpp(32): warning C4101: 'c5': unreferenced local variable
+c:\users\jmccartney\documents\visual studio 2017\spring semester 2019 projects\car_class_compare_lab_wk_13\car_class_compare_lab_wk_13\car_class_compare_cpp.cpp(32): warning C4101: 'c4': unreferenced local variable
+  Car_Class_Compare_Lab_Wk_13.vcxproj -> C:\Users\jmccartney\Documents\Visual Studio 2017\Spring Semester 2019 Projects\Car_Class_Compare_Lab_Wk_13\Debug\Car_Class_Compare_Lab_Wk_13.exe

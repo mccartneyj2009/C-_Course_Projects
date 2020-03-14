@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Car_Class_Compare_Lab_Wk_13", "Car_Class_Compare_Lab_Wk_13\Car_Class_Compare_Lab_Wk_13.vcxproj", "{5C65CB2C-535B-43B2-A725-A442DBE0F401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C65CB2C-535B-43B2-A725-A442DBE0F401}.Debug|x64.ActiveCfg = Debug|x64
+		{5C65CB2C-535B-43B2-A725-A442DBE0F401}.Debug|x64.Build.0 = Debug|x64
+		{5C65CB2C-535B-43B2-A725-A442DBE0F401}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C65CB2C-535B-43B2-A725-A442DBE0F401}.Debug|x86.Build.0 = Debug|Win32
+		{5C65CB2C-535B-43B2-A725-A442DBE0F401}.Release|x64.ActiveCfg = Release|x64
+		{5C65CB2C-535B-43B2-A725-A442DBE0F401}.Release|x64.Build.0 = Release|x64
+		{5C65CB2C-535B-43B2-A725-A442DBE0F401}.Release|x86.ActiveCfg = Release|Win32
+		{5C65CB2C-535B-43B2-A725-A442DBE0F401}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A5D8600-D8BC-4771-988E-1D08F3B9D568}
+	EndGlobalSection
+EndGlobal
